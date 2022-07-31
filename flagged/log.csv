@@ -1,0 +1,42 @@
+'comment','output','flag','username','timestamp'
+'you are bad','toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+','','','2022-07-18 00:37:04.181592'
+'you are bad','toxic: True
+severe_toxic: False
+obscene: False
+threat: False
+insult: False
+identity_hate: False
+','','','2022-07-18 00:37:05.405238'
+'go','','','','2022-07-18 22:03:11.761554'
+'go','','','','2022-07-18 22:03:13.321063'
+'','','','','2022-07-19 10:44:39.892367'
+'
+','toxic: 67%
+severe_toxic: 2%
+obscene: 21%
+threat: 2%
+insult: 23%
+identity_hate: 5%
+','','','2022-07-19 21:25:29.678435'
+'
+','toxic: 67%
+severe_toxic: 2%
+obscene: 21%
+threat: 2%
+insult: 23%
+identity_hate: 5%
+','','','2022-07-19 21:25:30.735595'
+'
+','toxic: 67%
+severe_toxic: 2%
+obscene: 21%
+threat: 2%
+insult: 23%
+identity_hate: 5%
+','','','2022-07-19 21:25:32.070235'
